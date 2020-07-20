@@ -14,6 +14,8 @@
 
 > ./ngrok authtoken TOKEN
 
+change TOKEN to the given token [here](https://dashboard.ngrok.com/get-started/setup)
+
 ### Fire it up ###
 
 > ./ngrok help

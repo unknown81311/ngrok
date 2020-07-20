@@ -1,19 +1,17 @@
 # ngrok #
-(/logo/logo.png)
-
----
-###download & Unzip to install###
+<img src="logo/logo.png" alt="drawing" width="200"/>
+### download & Unzip to install ###
 > git clone https://github.com/cyleja1234/ngrok
 
 > cd ngrok/
 
 > unzip ngrok-stable-linux-amd64.zip
 
-###Connect your account###
+### Connect your account ###
 
 > ./ngrok authtoken TOKEN
 
-###Fire it up###
+### Fire it up ###
 
 > ./ngrok help
 
